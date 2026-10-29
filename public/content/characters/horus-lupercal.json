@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "through": 1,
+      "bookId": "horus-rising",
+      "text": [
+        "Horus leads the Great Crusade as Warmaster following the Emperor’s return to Terra. He draws on the Mournival for informal counsel and brings [[garviel-loken|Loken]] into the group.",
+        "He attempts a diplomatic solution with the interex rather than treating conquest as the only answer. The collapse of that contact exposes the difficulties of his new responsibility and the limits of trust between cultures."
+      ]
+    },
+    {
+      "through": 2,
+      "bookId": "false-gods",
+      "text": [
+        "Horus takes the rebellion on Davin as a personal affront and confronts Eugen Temba. Wounded by the anathame, he is carried to the Serpent Lodge when ordinary treatment fails.",
+        "Erebus manipulates his experience with visions of an Imperium that has forgotten him. Magnus’s intervention exposes the deception, but Horus chooses rebellion nevertheless. He returns to command with a purpose he does not openly disclose to all of his warriors."
+      ]
+    },
+    {
+      "through": 3,
+      "bookId": "galaxy-in-flames",
+      "text": [
+        "Horus orders warriors he considers unreliable to the surface of Isstvan III and attacks them with virus weapons. Survivors organise resistance, turning the planned purge into a costly ground battle.",
+        "He ultimately orders further bombardment to end the resistance. His rebellion has become an open war against members of his own expedition as well as the Emperor."
+      ]
+    }
+  ]
+}

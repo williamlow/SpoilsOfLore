@@ -1,0 +1,29 @@
+{
+  "entries": [
+    {
+      "through": 16,
+      "bookId": "age-of-darkness",
+      "text": [
+        "Dantioch commands an isolated Iron Warriors garrison at the Schadenhold. Physically diminished by an earlier campaign, he relies on experience and engineering rather than the image of an unbreakable warrior.",
+        "When ordered to join Horus’s cause, he refuses. The resulting siege pits his knowledge of the fortress against former brothers. He arranges the destruction of the stronghold and escapes, keeping his loyalty to the Emperor."
+      ],
+      "storyId": "the-iron-within"
+    },
+    {
+      "through": 27,
+      "bookId": "the-unremembered-empire",
+      "text": [
+        "Dantioch works with the ancient Pharos on Sotha. His study of the device supports communication and movement within the realm taking shape around Macragge.",
+        "His developing friendship with Alexis Polux crosses the historic hostility between the Iron Warriors and Imperial Fists. It offers a personal example of loyalties being rebuilt across the war’s divisions."
+      ]
+    },
+    {
+      "through": 34,
+      "bookId": "pharos",
+      "text": [
+        "Dantioch continues to operate and investigate the Pharos as the Night Lords attack Sotha. He understands enough of its power to recognise the danger of allowing the attackers to possess it.",
+        "He overloads the installation to stop the enemy. The action costs him his life. Polux’s grief closes their shared story here, with Dantioch remembered through the choice he made in the defence of others."
+      ]
+    }
+  ]
+}

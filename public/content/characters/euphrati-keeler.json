@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "through": 1,
+      "bookId": "horus-rising",
+      "text": [
+        "Keeler travels with the expedition as a remembrancer and photographer. Her work brings her into contact with [[garviel-loken|Loken]] and other Luna Wolves while she tries to document the Great Crusade through human eyes.",
+        "She witnesses the horror in the Whisperheads and records it with her camera. The experience fractures the assurance offered by the Imperial Truth and begins a profound change in her beliefs."
+      ]
+    },
+    {
+      "through": 2,
+      "bookId": "false-gods",
+      "text": [
+        "Keeler turns toward belief in the Emperor’s divinity. Her conviction develops despite the official prohibition on religious worship and the growing hostility aboard the expedition’s ships.",
+        "An encounter with a daemonic threat gives her faith a tangible significance for those around her. She becomes a point of hope for companions who can no longer trust the fleet’s institutions."
+      ]
+    },
+    {
+      "through": 3,
+      "bookId": "galaxy-in-flames",
+      "text": [
+        "As Horus’s forces purge witnesses and opponents, Keeler and her companions seek escape. Their survival depends on help from people who still place loyalty to the Emperor above obedience to the fleet.",
+        "She is among the civilians carried away aboard the Eisenstein, bringing a witness’s perspective on the betrayal."
+      ]
+    },
+    {
+      "through": 4,
+      "bookId": "the-flight-of-the-eisenstein",
+      "text": [
+        "Keeler travels with [[nathaniel-garro|Garro]] and the other survivors aboard the Eisenstein. Her faith offers a different kind of support from the military and technical efforts needed to keep the ship alive.",
+        "She reaches Imperial protection with the witnesses to Isstvan. Her experience is part of the warning carried toward Terra, while her religious conviction continues to challenge the Imperium’s official understanding of itself."
+      ]
+    }
+  ]
+}

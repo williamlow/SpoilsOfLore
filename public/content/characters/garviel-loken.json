@@ -1,0 +1,29 @@
+{
+  "entries": [
+    {
+      "through": 1,
+      "bookId": "horus-rising",
+      "text": [
+        "Garviel Loken commands the Tenth Company of the Luna Wolves. After the death of Hastur Sejanus, he is invited into the Mournival, joining Abaddon, Aximand and Torgaddon as an adviser to [[horus-lupercal|Horus]]. His plain speaking gives the group a voice less comfortable with political calculation.",
+        "In the Whisperheads, he confronts a transformed Jubal and destroys the threat. The encounter unsettles his belief that every enemy can be understood through the Imperial Truth. His contact with remembrancers, including [[euphrati-keeler|Keeler]], brings the human cost of the crusade into sharper focus.",
+        "He takes part in the campaign on Murder and the subsequent contact with the interex. The collapse of negotiations leaves him with questions about the expedition’s direction."
+      ]
+    },
+    {
+      "through": 2,
+      "bookId": "false-gods",
+      "text": [
+        "Loken accompanies the expedition to Davin and sees Horus wounded. He and Torgaddon investigate the weapon and the events around the injury, growing suspicious of Erebus’s role.",
+        "The warrior lodges and the changing atmosphere aboard the flagship make Loken increasingly uneasy. He remains devoted to the Warmaster but can no longer assume that the people around him share his understanding of loyalty."
+      ]
+    },
+    {
+      "through": 3,
+      "bookId": "galaxy-in-flames",
+      "text": [
+        "Loken is sent to the surface of Isstvan III with troops selected for elimination. A warning from [[saul-tarvitz|Tarvitz]] allows some of the warriors to shelter from the virus attack. Loken joins the survivors’ defence against their own Legions.",
+        "He and Torgaddon confront their former Mournival brothers. Torgaddon is killed and Loken is badly wounded. At the end of this account, Loken is left among the ruins as the loyalist position is subjected to bombardment."
+      ]
+    }
+  ]
+}

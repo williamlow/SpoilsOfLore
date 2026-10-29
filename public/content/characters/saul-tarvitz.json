@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "through": 1,
+      "bookId": "horus-rising",
+      "text": [
+        "Tarvitz serves as a captain of the Emperor’s Children. During the fighting on Murder, he helps the surviving warriors contend with the megarachnid and questions choices driven by prestige rather than practical need.",
+        "His encounters with [[garviel-loken|Loken]] and other Imperial warriors establish bonds that cross Legion boundaries. He is more comfortable with dependable service than with the relentless pursuit of personal distinction."
+      ]
+    },
+    {
+      "through": 3,
+      "bookId": "galaxy-in-flames",
+      "text": [
+        "Tarvitz uncovers signs that the Isstvan operation is intended to destroy selected Imperial troops. He takes a craft to the surface and warns the deployed warriors before the virus attack.",
+        "After the firestorm, he helps unite survivors from different Legions into a defence. The resistance delays Horus’s forces, but Tarvitz and his companions are left facing the final bombardment with no route of escape."
+      ]
+    }
+  ]
+}

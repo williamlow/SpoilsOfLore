@@ -69,7 +69,7 @@ test('unread book content is not fetched until deliberately revealed', async ({
     dialog.getByText(/The Great Crusade reaches a turning point/),
   ).toBeVisible()
   await dialog.getByRole('slider').fill('2')
-  await expect(dialog.getByText(/Erebus/)).toBeVisible()
+  await expect(dialog.getByText(/The theft of the anathame/)).toBeVisible()
   await dialog.getByRole('button', { name: 'Next volume' }).click()
   await expect(
     page
